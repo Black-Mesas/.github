@@ -7,7 +7,7 @@ This is an incomplete list of all repos under Black-Mesas.
 ### Black-Mesas/microcontroller
 > This repo is private until completion
 
-Lua code for a basic microcontroller simulator, as well as an assembler and a C-like compiler. Has a Rojo so it is importable.
+Lua code for a basic microcontroller simulator, as well as an assembler and a C-like compiler. Has a Rojo project so it is importable.
 
 ### Black-Mesas/gmod-addons
 
