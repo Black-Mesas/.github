@@ -20,3 +20,7 @@ Dead repo of a game we we're planning to make.
 ### Black-Mesas/player-logger
 
 ComputerCraft and Advanced Peripherals script to detect if other players are nearby.
+
+### Black-Mesas/cc-roomba
+
+ComputerCraft Turtle script designed to pull items from the floor into itself.
